@@ -1,15 +1,26 @@
 ### Hello Folks 👋
 <bl>
-I am Padmanabhan aka Paddy, I am from Mumbai🌴,India and currently working as a Data Science - Intern @ Great Learning🧑‍💻.
+<small>I am Padmanabhan aka Paddy, I am from Mumbai🌴,India and currently working as a Data Science - Intern @ Great Learning🧑‍💻.
 I am a tech enthusiast and I have a keen interest in the field of A.I and Machine Learning🤖 . I am a continuous learner and strongly believe in contributing to the A.I community.
 
-You can find me here !!!
+  
+<h4>📞YOU CAN GET IN TOUCH WITH ME HERE 👇</h4>  
+<br>
+<div class="contact" style="display:flex">
+  
 <a href = "https://www.linkedin.com/in/padmanabhan-poraiyar-0618a6191/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  
+<a href="padmanabhanpaddy10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+</div>
 
-
+<br>  
+ 
 <h3>🔧Languages and tools that I work with🔧</h3>
 
 <bl>
+
+  <br>
 
 <div class='badge-container' style='display:flex'>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -39,11 +50,12 @@ You can find me here !!!
 <h3>My Github Stats📈</h3>
 
 <bl>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Padmanabhan100">
 
-<h3>Highlight Projects💻</h3>
+<br>
 
+  
 <details>
 <summary>📄Resume</summary>
 <h2>Education</h2>
