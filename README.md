@@ -4,7 +4,7 @@
 I am a tech enthusiast and I have a keen interest in the field of A.I and Machine Learning🤖 . I am a continuous learner and strongly believe in contributing to the A.I community.
 
   
-<h4>📞YOU CAN GET IN TOUCH WITH ME HERE 👇</h4>  
+<h4>YOU CAN GET IN TOUCH WITH ME HERE 👇</h4>  
 <br>
 <div class="contact" style="display:flex">
   
