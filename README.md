@@ -1,6 +1,6 @@
 ### Hello Folks 👋
 <bl>
-<small>I am Padmanabhan aka Paddy, I am from Mumbai🌴,India and currently working as a Data Science - Intern @ Great Learning🧑‍💻.
+<small>I am Padmanabhan aka Paddy, I am from Mumbai🌴,India and currently working as Applied Data Science - Case Study Creator @ Great Learning🧑‍💻.
 I am a tech enthusiast and I have a keen interest in the field of A.I and Machine Learning🤖 . I am a continuous learner and strongly believe in contributing to the A.I community.
 
   
@@ -74,7 +74,13 @@ I am a tech enthusiast and I have a keen interest in the field of A.I and Machin
 
 •👨‍💻 Data Science - Intern
 
-🗓️ 2021-Present
+🗓️ 2021-2022
+
+📍 <b>Great Learning</b> - INDIA
+  
+•👨‍💻 Applied Data Science - Case Study Creator
+
+🗓️ 2022-Present
 
 📍 <b>Great Learning</b> - INDIA
 
