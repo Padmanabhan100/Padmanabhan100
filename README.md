@@ -47,11 +47,6 @@ I am a tech enthusiast and I have a keen interest in the field of A.I and Machin
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
-<h3>My Github Stats📈</h3>
-
-<bl>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Padmanabhan100">
 
 <br>
 
