@@ -75,19 +75,18 @@ I am a tech enthusiast and I have a keen interest in the field of A.I and Machin
 🗓️ 2021-2022
 
 📍 <b>Great Learning</b> - INDIA
-  
-•👨‍💻 Applied Data Science - Case Study Creator
-
-🗓️ 2022-2022
-
-📍 <b>Great Learning</b> - INDIA
 
 •👨‍💻 Data Engineer - Intern
 
 🗓️ 2022-2022
 
 📍 <b>Go Digital</b> - INDIA
+  
+•👨‍💻 Applied Data Science - Case Study Creator
 
+🗓️ 2022-2023
+
+📍 <b>Great Learning</b> - INDIA
 
 </details>
 
