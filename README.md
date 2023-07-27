@@ -15,14 +15,15 @@ I am a tech enthusiast and I have a keen interest in the field of A.I and Machin
 </div>
 
 <br>  
- 
+
+<!--
 <h3>🔧Languages and tools that I work with🔧</h3>
 
 <bl>
 
   <br>
 
-<!--
+
 <div class='badge-container' style='display:flex'>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
