@@ -22,6 +22,7 @@ I am a tech enthusiast and I have a keen interest in the field of A.I and Machin
 
   <br>
 
+<!--
 <div class='badge-container' style='display:flex'>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -47,7 +48,7 @@ I am a tech enthusiast and I have a keen interest in the field of A.I and Machin
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img sec="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
+-->
 
 <br>
 
