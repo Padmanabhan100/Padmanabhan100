@@ -31,7 +31,7 @@ I am a tech enthusiast with a keen interest in <b>Artificial Intelligence, Machi
 
 <h2>Education 🎓</h2>
 
-• 📖 <b>B.Sc. Computer Science</b>
+• 📖 <b>B.S. Computer Science</b>
 
 🗓️ 2021 – 2024
 
